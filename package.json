@@ -1,0 +1,12 @@
+{
+  "name": "discord-automod-bot",
+  "version": "1.0.0",
+  "description": "Auto-mod + auto-role Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
