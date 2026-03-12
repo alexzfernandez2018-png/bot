@@ -25,7 +25,7 @@ const { Client, GatewayIntentBits, Partials, EmbedBuilder, AuditLogEvent } = req
 //  CONFIG — edit these values
 // ─────────────────────────────────────────────
 const CONFIG = {
-  token: "YOUR_BOT_TOKEN_HERE",
+  token: "MTQ4MTc3MDE4NzExNTIwNDY3OA.Gj5-Ua.IvybkH00VLUzl7TuLJpMW_oJzD8egoLsyEFEPU",
 
   // Auto-Role: role name(s) to assign when someone joins
   // Add as many as you like, e.g. ["Member", "Newcomer"]
@@ -40,7 +40,7 @@ const CONFIG = {
     maxMentions: 5,
 
     // Delete messages containing these words/phrases (lowercase)
-    bannedWords: ["badword1", "badword2"],
+    bannedWords: ["nigga", "nigger"],
 
     // Spam: max messages within the time window before mute
     spamLimit: 5,
