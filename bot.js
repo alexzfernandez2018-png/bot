@@ -25,7 +25,7 @@ const { Client, GatewayIntentBits, Partials, EmbedBuilder, AuditLogEvent } = req
 //  CONFIG — edit these values
 // ─────────────────────────────────────────────
 const CONFIG = {
-  token: "MTQ4MTc3MDE4NzExNTIwNDY3OA.Gj5-Ua.IvybkH00VLUzl7TuLJpMW_oJzD8egoLsyEFEPU",
+  token: "MTQ4MTc3MDE4NzExNTIwNDY3OA.GISWfb.nPIJnWJS8MQC3gYtRpAsi5e-UGHZVNH5pmDUSE",
 
   // Auto-Role: role name(s) to assign when someone joins
   // Add as many as you like, e.g. ["Member", "Newcomer"]
